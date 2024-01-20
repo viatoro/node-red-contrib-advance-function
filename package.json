@@ -1,9 +1,9 @@
 {
   "name": "node-red-contrib-advance-function",
   "version": "1.0.0",
-  "description": "adv fun",
+  "description": "advance function",
   "homepage"     : "https://github.com/viatoro/node-red-contrib-advance-function",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "repository"   : {
     "type":"git",
     "url":"https://github.com/viatoro/node-red-contrib-advance-function.git"
