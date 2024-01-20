@@ -8,4 +8,23 @@
     "type":"git",
     "url":"https://github.com/viatoro/node-red-contrib-advance-function.git"
   },
+  "dependencies": {
+  },
+  "engines": {
+      "node": ">=8.0.0"
+  },
+  "keywords": [ "advance", "node-red" ],
+  "node-red": {
+    "version": ">=1.0.0",
+      "nodes": {
+          "advance": "advance.js"
+      }
+  },
+  "bugs": {
+    "url": "https://github.com/viatoro/node-red-contrib-advance-function/issues"
+  },
+  "author": {
+    "name": "Viatoro",
+    "url": "https://github.com/viatoro/"
+  }
 }
